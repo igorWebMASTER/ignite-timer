@@ -20,7 +20,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="yellow">Concluído</Status>
                             </td>
@@ -29,7 +28,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
@@ -38,7 +36,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
@@ -47,7 +44,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
@@ -56,7 +52,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
@@ -65,7 +60,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
@@ -74,7 +68,6 @@ export function History() {
                             <td>Tarefa</td>
                             <td>20 minutos</td>
                             <td>Há 2 meses</td>
-                            <td>Concluído</td>
                             <td>
                                 <Status statusColor="green">Concluído</Status>
                             </td>
