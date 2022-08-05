@@ -8,7 +8,7 @@ interface CreateCycleData {
 interface Cycle {
     id: string
     task: string
-    minutesAmount: number
+    minutesAmount?: number
     isActive?: boolean
     startDate: Date
     interruptedDate?: Date
