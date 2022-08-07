@@ -21,7 +21,7 @@ export enum ActionTypes {
     MARK_CURRENT_CYCLE_AS_FINISHED = 'MARK_CURRENT_CYCLE_AS_FINISHED'
 }
 
-export function CycleReducer(state: CyclesState, action: any) {
+export function cyclesReducer(state: CyclesState, action: any) {
     switch (action.type) {
         case ActionTypes.ADD_NEW_CYCLE:
             return produce(state, draft => {
